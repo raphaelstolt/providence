@@ -1,5 +1,5 @@
 {
-    "type": "symfony-bundle",
+    "type": "library",
     "name": "kherge/providence",
     "description": "Makes testing through reflection easy.",
     "keywords": ["class", "object", "method", "reflection"],
